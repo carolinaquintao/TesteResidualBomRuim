@@ -1,0 +1,4 @@
+pytorch==1.2.0
+fastai==1.0.59
+h5py==2.9.0
+numpy==1.17.3
